@@ -20,6 +20,8 @@
 - That location will be displayed and pointed in a Google Map.
 
 - NPM Dependencies:
+  - [parcel-bundler](https://www.npmjs.com/package/parcel-bundler)
+    - [parcel](https://parceljs.org/) is a fast bundler for the HTML, CSS, JS files
   - [faker](https://www.npmjs.com/package/faker)
     - generates fake data
   - [@types/faker](https://www.npmjs.com/package/@types/faker)
