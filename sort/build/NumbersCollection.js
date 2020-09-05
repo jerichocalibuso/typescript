@@ -18,7 +18,7 @@ var Sorter_1 = require("./Sorter");
 var NumberCollection = /** @class */ (function (_super) {
     __extends(NumberCollection, _super);
     function NumberCollection(data) {
-        var _this = _super.call(this, data) || this;
+        var _this = _super.call(this) || this;
         _this.data = data;
         return _this;
     }
