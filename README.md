@@ -31,6 +31,7 @@
 
 - a bubble sorting command-line app that sorts array of numbers, string, and linked list
 - introduces tsconfig.json
+- discusses typeguards and abstract classes
 
 - NPM Dependencies:
   - [nodemon](https://www.npmjs.com/package/nodemon)
